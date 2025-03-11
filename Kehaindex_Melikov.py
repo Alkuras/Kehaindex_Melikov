@@ -40,3 +40,4 @@ try:
         print(f"Kohtumiseni, {nimi}!Igavesti Sinu, Python!")
 except Exception as e:
     print ("Viga:",e)
+    ##
